@@ -1,4 +1,4 @@
-<img width="846" height="853" alt="image" src="https://github.com/user-attachments/assets/84401b5a-74b4-4397-a23e-b9a788fedbbb" /># Gaussian Elimination
+## Gaussian Elimination
 
 ## AIM:
 To write a program to find the solution of a matrix using Gaussian Elimination.
